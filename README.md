@@ -146,8 +146,8 @@ mAP result on the [WIDERFACE](http://shuoyang1213.me/WIDERFACE/) validation data
 avrage inference time
 | Model | time |
 |---|---|
-| MTCNN | 0.154 |
-| RetinaFace | 0.188 |
+| MTCNN | 0.188 |
+| RetinaFace | 0.154 |
 
 ## ACKNOWLEDGEMENTS
 ```  
