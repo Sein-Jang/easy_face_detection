@@ -140,8 +140,8 @@ mAP result on the [WIDERFACE](http://shuoyang1213.me/WIDERFACE/) validation data
 
 | Model  | Easy  | Medium  | Hard  |
 |---|---|---|---|
-| MTCNN | 95.6  | 94.6 | 88.5 |
-| RetinaFace | 56.5  | 52.2  | 28.8  |
+| MTCNN | 56.5 | 52.2 | 28.8 |
+| RetinaFace | 95.6 | 94.6 | 88.5 |
 
 avrage inference time
 | Model | time |
